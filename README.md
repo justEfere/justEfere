@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @justEfere
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Intermediate WebDev | JS | Dart
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Twitter@justefere | Email: justefere@gmail.com
-- Sorry for the !Bad intro, will work on it later. Thank You 🍷
-<!---
-justEfere/justEfere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In the exciting world of tech, I'm on a journey to master programming, having already delved into HTML and CSS.
+I'm now in the process of conquering JavaScript, PHP, and Dart.
+My passion lies in constantly exploring new coding concepts and technologies.
+Alongside this, I'm a conversationalist with diverse interests, from economics to human anatomy, always eager to discuss what intrigues me.
+My aim for the next two years is to become highly skilled in programming and bring innovative projects to life.
+Thank you.
+
+You can always reach me via email: justefere@gmail.com
