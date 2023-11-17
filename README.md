@@ -11,4 +11,7 @@ Alongside this, I'm a conversationalist with diverse interests, from economics t
 My aim for the next two years is to become highly skilled in programming and bring innovative projects to life.
 Thank you.
 
+## Frontend Mentor Projects
+(View Projects)["https://www.frontendmentor.io/profile/justEfere"]
+
 You can always reach me via email: justefere@gmail.com
